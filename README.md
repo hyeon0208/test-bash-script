@@ -1,2 +1,2 @@
 # test-bash-script
-bash 쉘 연습
+Bash 쉘스크립트 작성 연습
