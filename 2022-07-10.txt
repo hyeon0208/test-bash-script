@@ -1,0 +1,12 @@
+total 32
+-rw-r--r-- 1 shj shj    0 Jul 10 18:42 2022-07-10.txt
+-rw-r--r-- 1 shj shj  948 Jul 10 18:17 README.md
+-rw-r--r-- 1 shj shj    0 Jul  8 18:31 a.log
+-rwxr-xr-x 1 shj shj  441 Jul 10 18:42 allfile.sh
+-rw-r--r-- 1 shj shj    0 Jul  8 18:31 b.log
+drwxr-xr-x 2 shj shj 4096 Jul  8 18:32 bak
+-rwxr-xr-x 1 shj shj  190 Jul 10 18:14 example.sh
+-rw-r--r-- 1 shj shj   18 Jul 10 17:46 mail.txt
+-rwxr-xr-x 1 shj shj  220 Jul 10 18:24 sample.sh
+-rwxr-xr-x 1 shj shj   60 Jul  8 18:32 testsh
+-rwxr-xr-x 1 shj shj  453 Jul 10 18:32 varUsage.sh
