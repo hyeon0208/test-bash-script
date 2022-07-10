@@ -7,10 +7,10 @@
 
 ---
 
-- "#" 으로 시작하는 라인은 comment 라인
+- "#" 은 comment ( 설명, 주석 ) 
 - "#!/bin/bash" = 셔뱅,해시뱅 라인이라 하며 스크립트를 실행할 sub shell 이름.
 
-- Sub shell
+- Sub shell <br>
 기존 쉘에서 shell 을 실행 할경우 쉘에서 실행하는 쉘을 sub shell라고 한다.
 sub shell 에서 exit 명령으로 쉘을 나올 경우 기존 로그인 쉘로 다시 돌아간다.
 // !#/bin/bash처럼 쉘크립트 시작 구문에 sub shell을 지정하지 않으면 현재 로그인 shell 과 동일한 shell로 실행.  
