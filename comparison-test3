@@ -1,6 +1,7 @@
 #!/bin/bash
-if [ -e /etc/passwd ]; then
-ls -l /etc/passwd
+echo "Input /filename"; read file
+if [ -e $file ]; then
+ls -l $file
 else
-echo "/etc/passwd file does not exsit"
+echo "$file file does not exsit"
 fi
