@@ -1,0 +1,6 @@
+#!/bin/bash
+if [ -e /etc/passwd ]; then
+ls -l /etc/passwd
+else
+echo "/etc/passwd file does not exsit"
+fi
