@@ -1,0 +1,7 @@
+#!/bin/bash
+#: Usage	: x가 y보다 큰지에 대해 x값을 직접 입력
+#: Author	: Hyeon jun Suh
+echo -n "Input x number: "; read x
+if [ $x -gt 5 ]; then
+echo "$x is greater than 5 "
+fi
