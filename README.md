@@ -3,7 +3,7 @@
 
 ---
 
-#### Shell 노션 링크 : https://hstory0208.notion.site/Linux-230b0cfcf9324a0c9757e91eab178084
+#### Shell 설명 노션 링크 : https://hstory0208.notion.site/Linux-230b0cfcf9324a0c9757e91eab178084
 
 ---
 
